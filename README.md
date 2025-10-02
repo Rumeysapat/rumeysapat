@@ -61,6 +61,14 @@
 - I like exploring new tech tools and applying them in small experiments
 
 ---
+## 📊 GitHub Stats & Trophies
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rumeysapat&show_icons=true&theme=radical)
+<!-- GitHub contribution stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rumeysapat&show_icons=true&theme=radical&hide=prs,issues)
+
+<!-- GitHub top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysapat&layout=compact&theme=radical)
+
+<!-- GitHub Profile Trophy -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=rumeysapat&theme=radical)
+
