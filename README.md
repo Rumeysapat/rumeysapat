@@ -36,7 +36,7 @@
 - RESTful API design and implementation  
 
 ## 📫 How to reach me
-- Email: your-email@example.com  
+- Email: rumeysapatt@gmail.com
 - LinkedIn: [linkedin.com/in/rumeysapat](https://www.linkedin.com/in/rumeysapat)  
 
 ## 😄 Pronouns
