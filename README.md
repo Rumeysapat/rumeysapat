@@ -1,25 +1,38 @@
-## Hi there 👋
-
-<!--
-**Rumeysapat/rumeysapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # Hi, I'm Rumeysa 👋
 
-👩‍💻 **Backend Developer | .NET Core & Web Projects Enthusiast**  
+👩‍💻 **Backend Developer | .NET Core & Web Projects Enthusiast**
 
 🎯 **Goal:** To build robust and useful web applications using .NET Core and improve my backend development skills.
 
 ---
 
+## 🔧 Technologies & Tools
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) 
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?logo=entityframework&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/VS-5C2D91?logo=visual-studio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+- [Hospital Appointment System](https://github.com/rumeysapat/hospital-system) – Appointment scheduling system  
+- [Blog & CMS System](https://github.com/rumeysapat/blog-cms) – Blog management system  
+- [REST API Examples](https://github.com/rumeysapat/rest-api-examples) – API development examples  
+
+> Replace these links with your own GitHub project URLs
+
+---
+
 ## 🔭 I’m currently working on
-- Hospital Appointment System (Backend & API)  
-- Blog & CMS System projects using ASP.NET Core MVC  
+- Developing backend and Web API projects with .NET Core  
+- Improving my skills in Web API architecture and clean code practices
 
 ## 🌱 I’m currently learning
-- Advanced Web API design and microservices architecture  
-- Integrating AI features into web applications  
-- Unit testing and best practices for clean code  
+- Advanced Web API design and microservices  
+- Integrating AI into web applications  
+- Unit testing and database optimization
 
 ## 👯 I’m looking to collaborate on
 - Open-source .NET Core projects  
@@ -36,12 +49,18 @@
 - RESTful API design and implementation  
 
 ## 📫 How to reach me
-- Email: rumeysapatt@gmail.com
+- Email: rumeysapatt@gmail.com 
 - LinkedIn: [linkedin.com/in/rumeysapat](https://www.linkedin.com/in/rumeysapat)  
 
-## 😄 Pronouns
-- She/Her  
+## 🌍 Languages
+- English (Fluent)  
+- Turkish (Native)
 
 ## ⚡ Fun fact
-- I enjoy fishing, especially Light Rock Fishing (LRF)  
-- I like combining technology with practical real-life projects
+- I enjoy combining technology with practical real-life projects  
+- I like exploring new tech tools and applying them in small experiments
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rumeysapat&show_icons=true&theme=radical)
