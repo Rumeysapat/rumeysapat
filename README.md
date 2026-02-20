@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 - [Hospital Appointment System](https://github.com/rumeysapat/hospital-system) – Appointment scheduling system  
-- [Blog & CMS System](https://github.com/rumeysapat/blog-cms) – Blog management system  
+- [BookStore](https://github.com/Rumeysapat/Book-Shopping-Cart-with-Identity-and-Roles) – Blog management system  
 - [REST API Examples](https://github.com/rumeysapat/rest-api-examples) – API development examples  
 
 > Replace these links with your own GitHub project URLs
