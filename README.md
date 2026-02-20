@@ -50,7 +50,7 @@
 
 ## 📫 How to reach me
 - Email: rumeysapatt@gmail.com 
-- LinkedIn: [linkedin.com/in/rumeysapat](https://www.linkedin.com/in/rumeysapat)  
+- LinkedIn: [linkedin.com/in/rumeysa-pat](https://www.linkedin.com/in/rumeysapat)  
 
 ## 🌍 Languages
 - English (Fluent)  
