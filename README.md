@@ -25,7 +25,7 @@
 ## 📌 Featured Projects
 - [Hospital Appointment System](https://github.com/Rumeysapat/HospitalAppointmentSystem) – Appointment scheduling system (.NET Core)  
 - [BookStore](https://github.com/Rumeysapat/Book-Shopping-Cart-with-Identity-and-Roles) – Book management system (.NET Core + EF Core)  
-- [Movie App with React & TMDB API](https://github.com/rumeysapat/react-movie-app) – Dynamic frontend project using React and TMDB API  
+- [Movie App with React & TMDB API](https://github.com/Rumeysapat/YoutubeClone/tree/master) – Dynamic frontend project using React and TMDB API  
 - [REST API Examples](https://github.com/rumeysapat/rest-api-examples) – API development examples  
 
 ---
