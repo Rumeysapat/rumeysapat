@@ -25,7 +25,9 @@
 - [Academic Journal & Peer-Review Platform](https://github.com/Rumeysapat/academic-journal-platform) – Enterprise publishing & editorial workflow platform (.NET 9 Modular Monolith + Next.js 16 + MongoDB & Redis)  
 - [BookStore](https://github.com/Rumeysapat/Book-Shopping-Cart-with-Identity-and-Roles) – Book management system (.NET Core + EF Core)  
 - [Movie App with React & TMDB API](https://github.com/Rumeysapat/YoutubeClone/tree/master) – Dynamic frontend project using React and TMDB API  
-- [PawMatch](https://github.com/Rumeysapat/PawMatch) – Location-based pet adoption platform built with .NET 9 Clean Architecture, MongoDB Geospatial & React Leaflet
+- 🐾 **[PawMatch](https://github.com/Rumeysapat/PawMatch)** — Location-based pet adoption platform built with .NET 9 Clean Architecture, MongoDB Geospatial & React Leaflet.
+- ✨ **[Didiyos Backend](https://github.com/Rumeysapat/-didiyos-backend-showcase)** — High-performance social event & photo sharing platform built with .NET 8 Modular Monolith, CQRS, Redis Caching, and DDD.
+
 
 
 ---
