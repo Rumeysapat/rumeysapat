@@ -21,9 +21,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
-
 ## 📌 Featured Projects
-- [Hospital Appointment System](https://github.com/Rumeysapat/HospitalAppointmentSystem) – Appointment scheduling system (.NET Core)  
+- [Academic Journal & Peer-Review Platform](https://github.com/Rumeysapat/academic-journal-platform) – Enterprise publishing & editorial workflow platform (.NET 9 Modular Monolith + Next.js 16 + MongoDB & Redis)  
 - [BookStore](https://github.com/Rumeysapat/Book-Shopping-Cart-with-Identity-and-Roles) – Book management system (.NET Core + EF Core)  
 - [Movie App with React & TMDB API](https://github.com/Rumeysapat/YoutubeClone/tree/master) – Dynamic frontend project using React and TMDB API  
 - [REST API Examples](https://github.com/rumeysapat/rest-api-examples) – API development examples  
